@@ -1,5 +1,5 @@
+// eslint-disable-next-line
 /* global fetch */
-
 import React, { useEffect, useState } from 'react'
 import GalleryItem from './GalleryItem'
 
